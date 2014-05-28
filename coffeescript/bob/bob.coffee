@@ -7,4 +7,3 @@ class Bob
                   when !input.match ///[a-z]+///  then "Woah, chill out!"
                   when input.match ///\?$///      then "Sure."
                   else "Whatever."
-                    
