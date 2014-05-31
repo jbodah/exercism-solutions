@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"word",
+				"word_count"
+			],
+			[
 				"fetch",
 				"fetch_data"
 			],
@@ -118,10 +122,6 @@
 			[
 				"twit",
 				"twittr_str"
-			],
-			[
-				"word",
-				"wordMap"
 			],
 			[
 				"twi",
@@ -288,12 +288,16 @@
 	"buffers":
 	[
 	],
-	"build_system": "",
+	"build_system": "Packages/CoffeeScript/CoffeeScript.sublime-build",
 	"command_palette":
 	{
 		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
 			[
 				"remove",
 				"Package Control: Remove Package"
@@ -335,7 +339,7 @@
 				"Package Control: Remove Package"
 			]
 		],
-		"width": 530.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -352,6 +356,14 @@
 	},
 	"file_history":
 	[
+		"/Users/jbodah/Documents/exercism/coffeescript/word-count/word-count_test.spec.coffee",
+		"/Users/jbodah/Documents/exercism/coffeescript/word-count/words.coffee",
+		"/Users/jbodah/Documents/exercism/coffeescript/bob/bob.coffee",
+		"/Users/jbodah/Documents/exercism/coffeescript/bob/bob_test.spec.coffee",
+		"/Users/jbodah/Documents/exercism/coffeescript/word-count/word-count.coffee",
+		"/Users/jbodah/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jbodah/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jbodah/Documents/exercism/coffeescript/bob/bob",
 		"/Users/jbodah/Documents/ruby/WeatherScout/db/schema.rb",
 		"/Users/jbodah/Documents/ruby/WeatherScout/spec/models/user_notifier_spec.rb",
 		"/Users/jbodah/Documents/ruby/WeatherScout/app/models/user_notifier.rb",
@@ -471,15 +483,7 @@
 		"/Users/jbodah/Documents/ruby/backtalk/app/assets/stylesheets/bootstrap_and_overrides.css.less.erb",
 		"/Users/jbodah/Documents/ruby/backtalk/app/views/home/index.html.erb",
 		"/Users/jbodah/Documents/ruby/backtalk/Gemfile",
-		"/Users/jbodah/Documents/ruby/backtalk/config/environments/production.rb",
-		"/Users/jbodah/Documents/ruby/backtalk/config/database.yml",
-		"/Users/jbodah/Documents/ruby/backtalk/app/assets/stylesheets/home.css.erb",
-		"/Users/jbodah/Documents/ruby/backtalk/app/controllers/home_controller.rb",
-		"/Users/jbodah/Documents/ruby/backtalk/app/views/layouts/application.html.erb",
-		"/Users/jbodah/Documents/ruby/backtalk/config/application.rb",
-		"/Users/jbodah/Documents/ruby/backtalk/app/assets/stylesheets/application.css",
-		"/Users/jbodah/Documents/ruby/backtalk/config/routes.rb",
-		"/Users/jbodah/Documents/love/fishy/timer.lua"
+		"/Users/jbodah/Documents/ruby/backtalk/config/environments/production.rb"
 	],
 	"find":
 	{
@@ -501,6 +505,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"map",
 			"WeatherDataCollecter",
 			"(",
 			".is_valid?",
@@ -627,8 +632,7 @@
 			"++",
 			"--",
 			"wail of",
-			"cmc",
-			"4"
+			"cmc"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -686,7 +690,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 100.0
+		"height": 287.0
 	},
 	"replace":
 	{
@@ -698,6 +702,22 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"word",
+				"coffeescript/word-count/word-count_test.spec.coffee"
+			],
+			[
+				"wor",
+				"coffeescript/word-count/words.coffee"
+			],
+			[
+				"bob.",
+				"coffeescript/bob/bob.coffee"
+			],
+			[
+				"co",
+				"coffeescript/bob/bob_test.spec.coffee"
+			],
 			[
 				"appli",
 				"config/application.rb"
